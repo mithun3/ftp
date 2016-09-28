@@ -1,0 +1,151 @@
+{
+  "items" : [ {
+    "id" : 36281,
+    "productItemType" : "SITE",
+    "wldId" : 2381882,
+    "logicalSiteSubscription" : 2472096,
+    "commitmentTimestamp" : 1457677446311,
+    "isNewCommitment" : false,
+    "deliveryTimestamp" : null,
+    "subscriptionIds" : [ 2472097, 2472096, 2472100, 2472094 ],
+    "features" : [ {
+      "id" : 93656,
+      "type" : "Domain",
+      "featureType" : "DOMAIN",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/domains/93656",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.DomainDTO"
+    }, {
+      "id" : 132473,
+      "type" : "Content",
+      "featureType" : "CONTENT",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contents/132473",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContentDTO"
+    }, {
+      "id" : 93658,
+      "type" : "Mobile",
+      "featureType" : "MOBILE",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/mobile/93658",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.MobileDTO"
+    }, {
+      "id" : 93659,
+      "type" : "AcceleratedWebPresence",
+      "featureType" : "ACCELERATED_WEB_PRESENCE",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/acceleratedWebPresences/93659",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.AcceleratedWebPresenceDTO"
+    }, {
+      "id" : 132474,
+      "type" : "Content",
+      "featureType" : "CONTENT",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contents/132474",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContentDTO"
+    }, {
+      "id" : 93654,
+      "type" : "ContactForm",
+      "featureType" : "CONTACT_FORM",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contactForms/93654",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContactFormDTO"
+    } ]
+  }, {
+    "id" : 36282,
+    "productItemType" : "SITE",
+    "wldId" : 2381882,
+    "logicalSiteSubscription" : 2510330,
+    "commitmentTimestamp" : 1457677446311,
+    "isNewCommitment" : false,
+    "deliveryTimestamp" : null,
+    "subscriptionIds" : [ 2510330 ],
+    "features" : [ {
+      "id" : 305155,
+      "type" : "Content",
+      "featureType" : "CONTENT",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contents/305155",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContentDTO"
+    }, {
+      "id" : 305150,
+      "type" : "Mobile",
+      "featureType" : "MOBILE",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/mobile/305150",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.MobileDTO"
+    }, {
+      "id" : 305147,
+      "type" : "Domain",
+      "featureType" : "DOMAIN",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/domains/305147",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.DomainDTO"
+    }, {
+      "id" : 305158,
+      "type" : "Content",
+      "featureType" : "CONTENT",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contents/305158",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContentDTO"
+    }, {
+      "id" : 305154,
+      "type" : "ContactForm",
+      "featureType" : "CONTACT_FORM",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contactForms/305154",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContactFormDTO"
+    } ]
+  }, {
+    "id" : 23456,
+    "productItemType" : "SITE",
+    "wldId" : 2381882,
+    "logicalSiteSubscription" : 605091,
+    "commitmentTimestamp" : 1111536000000,
+    "isNewCommitment" : false,
+    "deliveryTimestamp" : 1116806400000,
+    "subscriptionIds" : [ 2375241, 2377143, 2375242, 605093 ],
+    "features" : [ {
+      "id" : 93666,
+      "type" : "ContactForm",
+      "featureType" : "CONTACT_FORM",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contactForms/93666",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContactFormDTO"
+    }, {
+      "id" : 93662,
+      "type" : "ContactForm",
+      "featureType" : "CONTACT_FORM",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contactForms/93662",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContactFormDTO"
+    }, {
+      "id" : 93667,
+      "type" : "Content",
+      "featureType" : "CONTENT",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contents/93667",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContentDTO"
+    }, {
+      "id" : 93663,
+      "type" : "Content",
+      "featureType" : "CONTENT",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contents/93663",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContentDTO"
+    }, {
+      "id" : 93665,
+      "type" : "Content",
+      "featureType" : "CONTENT",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contents/93665",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContentDTO"
+    }, {
+      "id" : 93668,
+      "type" : "ContactForm",
+      "featureType" : "CONTACT_FORM",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/contactForms/93668",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.ContactFormDTO"
+    } ]
+  }, {
+    "id" : 23457,
+    "productItemType" : "LOCAL_PROFILE",
+    "wldId" : 2381882,
+    "logicalSiteSubscription" : 605091,
+    "commitmentTimestamp" : 1417392000000,
+    "isNewCommitment" : false,
+    "deliveryTimestamp" : 1424272640000,
+    "subscriptionIds" : [ 2377143 ],
+    "features" : [ {
+      "id" : 93664,
+      "type" : "LocalProfile",
+      "featureType" : "LOCAL_PROFILE",
+      "featureUrl" : "http://entservicesqa.amers1.cis.trcloud:8080/ent-services/v1/localProfiles/93664",
+      "featureDTOClass" : "com.findlaw.entitlementplatform.services.dto.v1.LocalProfileDTO"
+    } ]
+  } ]
+}
